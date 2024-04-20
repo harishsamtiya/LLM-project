@@ -1,0 +1,8 @@
+Python version
+	Python 3.10.12
+	
+Packages name and version need to install:
+tensorflow 2.11.0
+numpy 1.25.2
+pandas 2.0.3
+
